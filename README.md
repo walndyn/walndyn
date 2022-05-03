@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @walndyn
-- 👀 I’m interested in IOT, 3d printing and making
+- 👀 I’m interested in IOT, 3d printing and making in general
 - 🌱 I’m currently learning whatever I want (a bit of everything, nothing specific)
 
 <!---
